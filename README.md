@@ -1,4 +1,4 @@
-# CausalStarGANv2-VC
+# CausalStarGANv2-VC Demo
 CausalStarGANv2-VCとCausalHiFi-GANによるseen-to-seen変換のデモです.
 
 ### jvs068 to jvs004
