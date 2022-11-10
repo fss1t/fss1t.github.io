@@ -3,7 +3,7 @@ CausalStarGANv2-VCとCausalHiFi-GANによるseen-to-seen変換のデモです.
 
 |source|target|converted|
 |:-:|:-:|:-:|
-|<audio src="https://github.com/fss1t/fss1t.github.io/blob/main/audio/jvs068_VOICEACTRESS100_096.wav" controls></audio>|||
+|<audio src="https://drive.google.com/file/d/1CoHKunJzW2qxoFIbjLBofO7aiuqzAp3t/view?usp=share_link" controls></audio>|||
 |〃|〃||
 |〃|||
 |〃|〃||
